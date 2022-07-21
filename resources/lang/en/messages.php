@@ -1,0 +1,32 @@
+<?php 
+
+return [
+    'web_title' => 'SEARCH MOVIE',
+    'web_desc'  => 'Find Your Favorite Movie',
+    'list_movie'=> 'List Movies',
+    'fav_movie' => 'My Favorite Movie',
+    'logout'    => 'Logout',
+    'login'     => 'Login',
+    'search'    => 'Search',
+    'choose_type' => 'Choose Type',
+    'choose_year' => 'Choose Year',
+    'button_fav' => 'Favorite Movie',
+    'rating'    => 'Rating',
+    'length'    => 'Length',
+    'released'  => 'Released',
+    'genre'     => 'Genre',
+    'director' => 'Director',
+    'writers'   => 'Writers',
+    'actors'    => 'Actors',
+    'movies'    => 'Movies',
+    'series'    => 'Series',
+    'episode'   => 'Episode',
+    'movie_notfound' => 'Movies Not Found',
+    'fav_movie_notfound' => 'Favorite Movie Not Found',
+    'home'  => 'Home',
+    'fav_movie_success_deleted' => 'Favorite film has been deleted',
+    'fav_movie_fail_deleted' => 'Deleted favorite film fail',
+    'invalid_login' => 'Email or password incorrect',
+    'username'  => 'Username',
+    'password'  => 'Password'
+];
